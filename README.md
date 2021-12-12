@@ -1,4 +1,4 @@
-**Privacy Policy**
+## **Privacy Policy**
 
 BETHESDA PASIR-RIS MISSION CHURCH built the BPMConnect app as a Free app. This SERVICE is provided by BETHESDA PASIR-RIS MISSION CHURCH at no cost and is intended for use as is.
 
